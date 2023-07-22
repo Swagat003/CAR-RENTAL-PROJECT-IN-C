@@ -1,0 +1,10 @@
+Details:
+-----------------------------------------------------------------------------------------------------------
+NAME: XYZ
+CUSTOMER ID: 1234
+CAR RENTED: TATA Safari
+NUMBER OF DAYS: 5
+RENT: 1000/-
+-----------------------------------------------------------------------------------------------------------
+WARNING: If any damage is done to the car then you are entirely responsible. The car has to be returned in its initial condition.
+-----------------------------------------------------------------------------------------------------------

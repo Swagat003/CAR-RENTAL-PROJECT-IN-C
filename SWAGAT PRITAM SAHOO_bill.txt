@@ -1,0 +1,10 @@
+Details:
+-----------------------------------------------------------------------------------------------------------
+NAME: SWAGAT PRITAM SAHOO
+CUSTOMER ID: -2093946871
+CAR RENTED: AUDI Q3
+NUMBER OF DAYS: 10
+RENT: 2500/-
+-----------------------------------------------------------------------------------------------------------
+WARNING: If any damage is done to the car then you are entirely responsible. The car has to be returned in its initial condition.
+-----------------------------------------------------------------------------------------------------------
